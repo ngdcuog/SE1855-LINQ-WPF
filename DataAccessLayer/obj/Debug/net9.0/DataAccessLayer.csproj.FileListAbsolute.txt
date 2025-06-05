@@ -1,0 +1,4 @@
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache

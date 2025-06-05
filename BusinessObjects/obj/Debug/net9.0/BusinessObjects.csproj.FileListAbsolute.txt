@@ -1,0 +1,4 @@
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfo.cs
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\BusinessObjects\obj\Debug\net9.0\BusinessObjects.csproj.CoreCompileInputs.cache
