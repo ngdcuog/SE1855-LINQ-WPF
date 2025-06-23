@@ -11,17 +11,15 @@ namespace DataAccessLayer
     {
         private static List<Product> listProducts;
 
-        public ProductDAO()
+        static ProductDAO()
         {
             Product chai = new Product(1, "Chai", 3, 12, 18);
             Product chang = new Product(2, "Chang", 1, 23, 19);
-            Product aniseed = new Product(1, "Aniseed Syrup", 2, 23, 10);
+            Product aniseed = new Product(3, "Aniseed Syrup", 2, 23, 10);
             listProducts = new List<Product> { chai, chang, aniseed };
         }
-        public List<Product> GetProducts()
-        {
-            return listProducts;
-        }
+
+        public static List<Product> GetProducts() => listProducts;
 
         //public static List<Product> GetProducts()
         //{
@@ -35,12 +33,9 @@ namespace DataAccessLayer
         //    return listProducts;
         //}
 
-        public void saveProduct(Product p)
-        {
-            listProducts.Add(p);
-        }
+        public static void SaveProduct(Product p) => listProducts.Add(p);
 
-        public void UpdateProduct(Product product)
+        public static void UpdateProduct(Product product)
         {
             foreach (Product p in listProducts.ToList())
             {
@@ -55,7 +50,7 @@ namespace DataAccessLayer
             }
         }
 
-        public void DeleteProduct(Product product)
+        public static void DeleteProduct(Product product)
         {
             foreach (Product p in listProducts.ToList())
             {
@@ -66,16 +61,6 @@ namespace DataAccessLayer
             }
         }
 
-        public Product GetProductById(int id)
-        {
-            foreach (Product p in listProducts.ToList())
-            {
-                if (p.ProductId == id)
-                {
-                    return p;
-                }
-            }
-            return null;
-        }
+        public static Product GetProductById(int id) => listProducts.FirstOrDefault(p => p.ProductId == id);
     }
 }

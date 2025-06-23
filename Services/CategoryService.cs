@@ -8,7 +8,7 @@ using Repositories;
 
 namespace Services
 {
-    public class CategoryService
+    public class CategoryService : ICategoryService
     {
         private readonly ICategoryRepository iCategoryRepository;
 
@@ -17,7 +17,7 @@ namespace Services
             iCategoryRepository = new CategoryRepository();
         }
 
-        public List<Category> getCategories()
+        public List<Category> GetCategories()
         {
             return iCategoryRepository.GetCategories();
         }

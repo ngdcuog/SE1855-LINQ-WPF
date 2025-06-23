@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace BusinessObjects
 {
     public partial class Product
     {
+        public Product() { }
+
         public Product(int id, string name, int catId, short unitInStock, decimal price) 
         {
             this.ProductId = id;

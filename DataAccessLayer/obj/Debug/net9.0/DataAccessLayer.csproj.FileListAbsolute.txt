@@ -1,4 +1,16 @@
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
 D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
 D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
 D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
 D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.sourcelink.json
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\BusinessObjects.dll
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\bin\Debug\net9.0\BusinessObjects.pdb
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAcce.E67BD773.Up2Date
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\1.FPT\Semester_5\PRN212\MySelfDOCNET\ProductManagementDemo\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll
